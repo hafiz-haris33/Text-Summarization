@@ -100,8 +100,7 @@ cd Text-Summarization
 
 # Install dependencies
 pip install -r requirements.txt
-
-
+```
 ---
 
 
