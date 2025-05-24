@@ -1,0 +1,22 @@
+# Core Libraries
+numpy
+pandas
+tqdm
+
+# NLP Libraries
+spacy
+
+# HuggingFace Libraries
+transformers
+datasets
+evaluate
+
+# Deep Learning
+torch
+
+# Visualization (if used in notebooks)
+matplotlib
+seaborn
+
+# Utility
+scikit-learn
